@@ -7,7 +7,7 @@
 #define BTN2_PIN 4      
 
 // --- HARDWARE CONFIGURATION ---
-#define NUM_LEDS 26     
+#define NUM_LEDS 60     
 #define BRIGHTNESS_STEPS 6
 #define DEBOUNCE_DELAY 80 
 
